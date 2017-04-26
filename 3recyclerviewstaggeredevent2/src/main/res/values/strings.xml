@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">0405Android</string>
+    <string-array name="version">
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>2.0/2.1</item>
+        <item>2.2</item>
+        <item>2.3</item>
+        <item>3.0</item>
+        <item>4.0</item>
+        <item>4.1/4.2/4.3</item>
+        <item>4.4</item>
+    </string-array>
+    <string-array name="code">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Icecream Sandwich</item>
+        <item>Jellybean</item>
+        <item>Kitkat</item>
+    </string-array>
+</resources>
